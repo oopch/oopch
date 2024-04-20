@@ -1,9 +1,4 @@
-# Self Supervised Learning Summary
+# Looking for a CO - FOUNDER in Berlin Germany
 
-
-References:
-
-- Framework:  
-    https://github.com/lightly-ai/lightly
-- Comparison SimSiam/BYOL/SimCLR  
-    https://sh-tsang.medium.com/review-simsiam-exploring-simple-siamese-representation-learning-3c84ceb61702
+A former startup CTO, with 20+ years of experience in industry is looking for a Co-Funder for a startup in the medical domain.  
+**Relevant?** ping me adam34@mein.gmx
